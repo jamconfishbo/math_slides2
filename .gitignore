@@ -1,0 +1,14 @@
+# Ignore Manim cache and temporary files
+media/
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.dvi
+*.fls
+*.fdb_latexmk
+.venv/
+
+# Keep your generated slides and dashboard
+!algebra/
+!index.html
